@@ -1,4 +1,6 @@
-""" Library for loading and interacting with Microsoft Personality Chat
+""" ConBot (Jake Ledoux, 2020)
+
+    Library for loading and interacting with Microsoft Personality Chat
     datasets in TSV form.
 
     You can find those here:
